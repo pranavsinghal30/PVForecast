@@ -1,0 +1,7 @@
+numpy
+requests
+pvlib==0.8.1
+siphon
+datetime
+netCDF4
+tables
